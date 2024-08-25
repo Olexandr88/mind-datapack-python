@@ -54,8 +54,8 @@ Full doc: [https://mind-network.gitbook.io/mind-lake-sdk](https://mind-network.g
 
 ## Authors
  
-* Dennis [@NuIlPtr](https://twitter.com/nuilptr)
-* George [@georgemindnet](https://twitter.com/georgemindnet)
+* Dennis [@NuIlPtr](https://x.com/nuilptr)
+* George [@georgemindnet](https://x.com/georgemindnet)
 
 ## Version History
 
